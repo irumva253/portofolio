@@ -1,5 +1,5 @@
 <?php      
-    $host = "containers-us-west-167.railway.app";  
+    $host = "containers-us-west-167.railway.app:8055";  
     $user = "root";  
     $password = 'FU67ldenYyvLkbMEHCPz';  
     $db_name = "railway";  
